@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2026-04-01",
+    "type": "income",
+    "amount": 2000,
+    "category": "salary"
+  },
+  {
+    "date": "2026-04-02",
+    "type": "expense",
+    "amount": 12.5,
+    "category": "food"
+  },
+  {
+    "date": "2026-04-02",
+    "type": "expense",
+    "amount": 45,
+    "category": "car"
+  },
+  {
+    "date": "2026-04-03",
+    "type": "expense",
+    "amount": 30,
+    "category": "food"
+  },
+  {
+    "date": "2026-04-04",
+    "type": "expense",
+    "amount": 80,
+    "category": "shopping"
+  },
+  {
+    "date": "2026-04-05",
+    "type": "income",
+    "amount": 150,
+    "category": "gift"
+  }
+]
